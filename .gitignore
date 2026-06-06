@@ -1,0 +1,9 @@
+gamemodes
+*.txt
+samp-server.exe
+server.cfg
+*.log
+plugins
+*.dll
+logs
+scriptfiles
